@@ -1,4 +1,4 @@
-var screens = [["sweet", "#97D249"], ["warm", "#FFBA1A"], ["cool", "#59D2AF"], ["nice", "#6D4EBF"],];
+var screens = [["sweet", "#97D249"], ["cute", "#FFBA1A"], ["funny", "#59D2AF"], ["smart", "#6D4EBF"], ["amazing", "#6D4EBF"], ["lovely", "#6D4EBF"], ["beautiful", "#6D4EBF"], ["sweet", "#6D4EBF"], ["nice", "#6D4EBF"], ["honest", "#6D4EBF"], ["perfect", "#6D4EBF"],];
 var descriptorEl = document.querySelector(".descriptor");
 var speed = 3000;
 
