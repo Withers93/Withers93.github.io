@@ -1,0 +1,8 @@
+{
+    "short_name": "Nice Words",
+    "name": "Nice Words",
+    "icons": [],
+    "start_url": "index.html?launcher=true",
+    "background_color": "#97D249",
+    "display": "standalone",
+}
