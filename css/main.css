@@ -1,0 +1,10 @@
+body {
+    background-color: #ccc;
+}
+
+.landing-container {
+    width: 75%;
+    margin: auto;
+    background-color: white;
+    height: 500px;
+}
